@@ -1,1 +1,14 @@
+Day 1: 
 
+Kaitlyn used the GravCorrections notebook in the scripts folder to perform gravity corrections (drift, free air, bouguer) 
+
+2022_Gravity in the data folder contains the raw data from 2022 and the corrected data 
+
+Grav_corrected in the data folder is the .csv file of the corrected data (jupyter notebook downloaded this)
+
+Day 2: 
+
+Anna created separate scripts and data folders in the gravity folder (python notebooks go in the scripts folder and data files go in the data folder...)
+
+Kaitlyn made a map with the gravity (2022 - groups 1 and 5) and the refraction line (2025) points 
+and interpolated the gravity grids from 2022. 
