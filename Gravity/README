@@ -9,3 +9,6 @@ Grav_corrected in the data folder is the .csv file of the corrected data (jupyte
 Day 2: 
 
 Anna created separate scripts and data folders in the gravity folder (python notebooks go in the scripts folder and data files go in the data folder...)
+
+Kaitlyn made a map with the gravity (2022 - groups 1 and 5) and the refraction line (2025) points 
+and interpolated the gravity grids from 2022. 
