@@ -4,16 +4,6 @@ Flinstones group repository for Mines Geophysics Field Camp 2025
 ## Group and Project: 
 Anna, Jack D., Kaitlyn, Paige: Imaging a cave system, part 2: A tale of two wavefields – Multiphysics, multifrequency imaging of Sulfur Cave, Steamboat Springs
 
-# Day 1: 
-- Kaitlyn performed gravity corrections (drift, free air, and bouger) on the 2022 gravity data collected
-- Anna created/initiated this GitHub repository
+## Abstract
+Sulphur Cave in Steamboat Springs, Colorado, is a rare cave system because it is eroded exclusively by sulphuric acid speleogenesis. Its extremely toxic environment limits scientists from exploring the cave directly. Previous geophysical studies have examined the cave, but these reports lack a comprehensive understanding of the cave’s structure. We aim to build upon existing knowledge of the cave and its structure by integrating the recently collected refraction seismic data and the 50 MHz ground penetrating radar (GPR) data collected over the cave with the previously collected gravity data from 2022 and 100 MHz GPR data from 2024. We processed gravity, GPR, and seismic refraction data using various software.  We performed WET (Wavepath Eikonal Traveltime) tomography, providing figures to show both wave path coverage and a gradient velocity model of a 1D cross-sectional area. Preliminary gravity results show a lower gravity anomaly over the northwest gravity grid near the cave entrance, suggesting a zone of lower density consistent with potential voids. Seismic results show a general increase in velocity with depth, with relatively higher velocity zones potentially indicating dense travertine and low velocity zones indicating a void space, corresponding to our cave. Initial results in our GPR data suggest that strong reflections at depth may correspond to infilled voids, while weaker signals may suggest porous or air-filled media indicative of cave channels. By combining multiphysics and multifrequency approaches, our study refines the geophysical interpretation of Sulphur Cave and highlights key regions for further investigation.
 
-# Day 2: 
-- Kaitlyn created a map with the GPS points for the 2025 refraction survey, the 2022 gravity grids (group 1 and group 5), and began working on the GPR plotting
-- Running into GPR GPS issues (funky coordinate systems)
-- Paige began picking first arrivals for the 2025 refraction line after we talked with people from Collier Geophysics
-- Jack uploaded all of the GPR data and loaded the 2024 100 MHz data into Geolytix
-
-# Day 3: 
-- Solved our GPS issues with GPR and plotted the survey grids onto Kaitlyn's map
-- Paige continued to pick first arrivals and created a preliminary velocity model with her current picks 
